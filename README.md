@@ -47,7 +47,7 @@ In this study, there are three types of tea, tea stems and impurities to be clas
 <img src='images/result_steams.bmp' align="center" width="300px" />
 </p>
 
-- (c) Mark the steams in the test image
+- (c) Mark the stems in the test image
 
 <p>
 <img src='images/result_impurities.bmp' align="center" width="300px" />
